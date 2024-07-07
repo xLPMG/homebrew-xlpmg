@@ -1,4 +1,4 @@
-cask 'libesprite' do
+cask 'libresprite' do
   version '1.0'
   sha256 '85004254166204291a9c08007592cb6d38ac89a01faec3aa37c037a39d86b9eb'
 

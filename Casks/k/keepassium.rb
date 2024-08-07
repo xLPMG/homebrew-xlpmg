@@ -1,8 +1,8 @@
 cask 'keepassium' do
-  version '1.52.151'
-  sha256 'b4ccaf77c73330fc5f2372b2b298cad297e2533c7d82ec1939a9c1d09b7828cc'
+  version '1.53.153'
+  sha256 '54d5ff9e1cef297c0d8005e5f5d1cd0e33f73fcd8929e72346466b6cf0d25a9e'
 
-  url 'https://github.com/keepassium/KeePassium/releases/download/1.52.151/KeePassium-1.52.151.dmg'
+  url 'https://github.com/keepassium/KeePassium/releases/download/1.53.153/KeePassium-1.53.153.dmg'
   name 'KeePassium'
   desc 'KeePass-compatible password manager for iOS '
   homepage 'https://keepassium.com/'
